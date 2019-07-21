@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native/apk-download",
+  "_id": "@ionic-native/apk-download@0.0.1",
+  "_inBundle": false,
+  "_location": "/@ionic-native/apk-download",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native/apk-download",
+    "name": "@ionic-native/apk-download",
+    "escapedName": "@ionic-native%2fapk-download",
+    "scope": "@ionic-native",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "",
+  "_spec": "@ionic-native/apk-download",
+  "_where": "",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/cordova": "latest"
+  },
+  "deprecated": false,
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native/apk-download",
+  "peerDependencies": {
+    "rxjs": "^5.5.0 || ^6.5.0",
+    "@ionic-native/core": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandLZ/apk-download.git"
+  },
+  "typings": "index.d.ts",
+  "version": "0.0.1"
+}
